@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc_react_52_Reinghord/static/css/main.98a4bc91.css",
-    "main.js": "/bc_react_52_Reinghord/static/js/main.2cfb62ce.js",
+    "main.js": "/bc_react_52_Reinghord/static/js/main.421c9547.js",
     "static/media/banana@2x.png": "/bc_react_52_Reinghord/static/media/banana@2x.b47deb41a8b95af253e1.png",
     "static/media/banana-tablet@2x.png": "/bc_react_52_Reinghord/static/media/banana-tablet@2x.af0a50be7e6caab9f82a.png",
     "static/media/Strawberry-desktop@2x-min.png": "/bc_react_52_Reinghord/static/media/Strawberry-desktop@2x-min.744c0c9dedde7d83f85c.png",
@@ -69,10 +69,10 @@
     "index.html": "/bc_react_52_Reinghord/index.html",
     "static/media/icons.svg": "/bc_react_52_Reinghord/static/media/icons.6034ce9fdb0cfdb148f8a67d04e5e3a6.svg",
     "main.98a4bc91.css.map": "/bc_react_52_Reinghord/static/css/main.98a4bc91.css.map",
-    "main.2cfb62ce.js.map": "/bc_react_52_Reinghord/static/js/main.2cfb62ce.js.map"
+    "main.421c9547.js.map": "/bc_react_52_Reinghord/static/js/main.421c9547.js.map"
   },
   "entrypoints": [
     "static/css/main.98a4bc91.css",
-    "static/js/main.2cfb62ce.js"
+    "static/js/main.421c9547.js"
   ]
 }
