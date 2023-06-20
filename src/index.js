@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/goit-react-health-project">
+        <BrowserRouter basename="/bc_react_52_Reinghord">
           <App />
         </BrowserRouter>
       </PersistGate>
