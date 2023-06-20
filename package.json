@@ -2,7 +2,7 @@
   "name": "react-health-project",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://reinghord.github.io/goit-react-health-project/",
+  "homepage": "https://GoitStudentsWorks.github.io/bc_react_52_Reinghord/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
